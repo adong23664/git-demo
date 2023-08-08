@@ -2,10 +2,6 @@
 
 This is the first file in this repo
 
-## Ipsum Below
+## Website Contents
 
-efwefmptvt, r,foe,foef rforgmvtph
-4rewr,4plt prp3e2, b tpgp5g.p5
-5o,w3. 4lp.4t 43p2[ft ] rog,btg;t.;hy
-
-apple, banana, cherry, orange
+1. index.html
